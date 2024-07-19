@@ -55,7 +55,3 @@ A successful model will have:
 - High accuracy and F1-score across all classes, ensuring both precision and recall.
 - High ROC-AUC score, indicating good discrimination between diseases.
 - Practical utility in real-world healthcare settings, aiding in the early and accurate diagnosis of diseases.
-
----
-
-This problem statement provides a clear objective, background, and detailed steps to guide the development and evaluation of your machine learning model.
