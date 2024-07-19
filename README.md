@@ -1,4 +1,4 @@
-# [disease_prediction](https://example.com/docs)
+# [Disease Prediction](https://diseasepredict.godstimeedet.com/)
 
 
 
